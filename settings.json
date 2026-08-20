@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
-    "type": "onlinee"
+    "type": "offline"
   },
   "server": {
     "ip": "playroblox.aternos.me",
