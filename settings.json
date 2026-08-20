@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
-    "type": "offline"
+    "type": "onlinee"
   },
   "server": {
     "ip": "playroblox.aternos.me",
     "port": 28445,
-    "version": "26.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
